@@ -4,6 +4,8 @@ SPDX-FileCopyrightText: 2021 Andre 'Staltz' Medeiros
 SPDX-License-Identifier: CC-BY-4.0
 -->
 
+:warning: **This repo was moved to https://github.com/ssbc/rooms2.** This archival will remain in this GitHub org `ssb-ngi-pointer` to demonstrate the outcome of the work done by the SSB NGI Pointer team during 2020 and 2021. The SSB NGI Pointer team is no longer active because we completed our grant project.
+
 - [Intro](Intro.md)
 - [Stakeholders](docs/Stakeholders/Readme.md)
   - [Administrator](docs/Stakeholders/Room%20admin.md)
